@@ -6,7 +6,7 @@ The system uses real telemetry from the OpenSky Network, including position, spe
 
 An XGBoost classifier and an LSTM model are trained on historical NTSB accident data and ADS B trajectories. Their outputs are combined in an ensemble and optimized with ONNX quantization for fast inference. Predictions are served through FastAPI, deployed with Docker, monitored with Prometheus, and tracked with MLflow. A TypeScript dashboard shows real aircraft on an interactive map and refreshes every 30 seconds with current flight data and risk percentages.
 
-At its core, **Phase 1** gives pilots, analysts, and researchers a clear real time view of potentially dangerous aircraft interactions, with transparent risk scoring and telemetry context.
+At its core, **Phase 1** gives ATC, pilots, analysts, and researchers a clear real time view of potentially dangerous aircraft interactions, with transparent risk scoring and telemetry context.
 
 **Phase 2** adds a GenAI reasoning and explanation layer. A high risk score alone is not enough for operational decision making. People also need to understand why a situation is dangerous, what similar events happened in the past, which regulations apply, and what action should be considered.
 
