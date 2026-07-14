@@ -1,0 +1,435 @@
+mkey,ntsb_no,event_date,city,state,country,narrative_text,aircraft_type,phase_of_flight,cause_codes
+203372,GAA26WA249,2026-07-10 04:00:00+00:00,Nicholls Town,Other Foreign,Bahamas,,CESSNA 402C,Enroute,
+203360,WPR26LA253,2026-07-09 10:30:00+00:00,Big Piney,Wyoming,United States,,CESSNA 180,Landing-landing roll,
+203362,ANC26LA070,2026-07-08 11:48:00+00:00,Tallahassee,Florida,United States,,MOONEY M20M,Enroute-cruise,
+203352,ANC26LA069,2026-07-07 14:30:00+00:00,Mekoryuk,Alaska,United States,,PIPER PA-18-150,Enroute,
+203343,GAA26WA245,2026-07-07 14:19:00+00:00,La Lima,Other Foreign,Honduras,,AYRES S2R AIR,Unknown,
+203329,WPR26LA245,2026-07-05 08:25:00+00:00,Salome,Arizona,United States,,PIPER PA-28-140,Initial climb,
+203358,WPR26LA252,2026-07-05 06:50:00+00:00,Greenleaf,Idaho,United States,,FAIRCHILD M-62A,Approach-VFR pattern final,
+203339,WPR26LA247,2026-07-03 12:10:00+00:00,Springtown,Texas,United States,,BELL 47G HELI,Takeoff,
+203315,GAA26WA238,2026-07-03 12:03:00+00:00,Chichester,Other Foreign,United Kingdom,,CIRRUS SR22,Unknown,
+203308,ERA26LA257,2026-07-02 14:42:00+00:00,Lafayette,Tennessee,United States,,CIRRUS DESIGN CORP SR22,Enroute,
+203283,WPR26LA237,2026-06-29 11:48:00+00:00,San Jose,California,United States,,AUTOGYRO MT03 GYRO,Takeoff,
+203271,ERA26FA253,2026-06-29 10:55:00+00:00,Goldsby,Oklahoma,United States,,BELLANCA 14-19-2,Takeoff,
+203325,GAA26WA241,2026-06-28 15:30:00+00:00,Neropolis,Other Foreign,Brazil,,CIRRUS SR22,Unknown,
+203292,GAA26WA235,2026-06-27 14:45:00+00:00,Fochville,Other Foreign,South Africa,,PIPER PA28 AIR,Unknown,
+203326,GAA26WA242,2026-06-26 13:45:00+00:00,São Gabriel do Oeste,Other Foreign,Brazil,,CESSNA 172 AIR,Unknown,
+203263,GAA26WA230,2026-06-25 11:07:00+00:00,Warsaw,Other Foreign,Poland,,CIRRUS SR22 AIR,Unknown,
+203261,GAA26WA228,2026-06-25 04:00:00+00:00,Ciudad del Carmen,Other Foreign,Mexico,,CESSNA 401,Unknown,
+203228,CEN26LA232,2026-06-23 15:00:00+00:00,Holly Grove,Arkansas,United States,,ROCKY MOUNTAIN KITPLANES LLC S-6S AIR,Landing,
+203319,WPR26LA244,2026-06-23 09:30:00+00:00,Minden,Nevada,United States,,PIPER PA-18A AIR,Landing-flare/touchdown,
+203249,ERA26LA248,2026-06-23 08:57:00+00:00,Brooksville,Florida,United States,,CESSNA 172S AIR,Taxi-to runway,
+203219,ANC26LA062,2026-06-22 10:43:00+00:00,Wiseman,Alaska,United States,,TEXTRON AVIATION INC 208B AIR,Enroute-cruise,
+203234,WPR26LA230,2026-06-21 09:30:00+00:00,Alva,Oklahoma,United States,,STEPHEN ABERLE CHIPPER CH-2A AIR,Taxi-from runway,
+203204,WPR26FA224,2026-06-20 15:35:00+00:00,Middlefield,Ohio,United States,,PIPER PA-24-250,Unknown,
+203216,ERA26LA244,2026-06-20 14:30:00+00:00,Naples,Florida,United States,,CESSNA 182S,Takeoff-rejected takeoff,
+203207,DCA26WA239,2026-06-20 05:43:00+00:00,Dubai,Other Foreign,United Arab Emirates,,AIRBUS A380 AIR,Takeoff-rejected takeoff,
+203195,ERA26FA241,2026-06-17 12:15:00+00:00,Morrison,Tennessee,United States,,CESSNA 177RG AIR,Takeoff,
+203196,WPR26LA222,2026-06-17 10:30:00+00:00,DEATH VALLEY,California,United States,,CESSNA 172S AIR,Landing-landing roll,
+203191,CEN26FA228,2026-06-16 22:00:00+00:00,Laredo,Texas,United States,,TEXTRON AVIATION INC 680A AIR,Enroute,
+203180,ANC26LA051,2026-06-13 13:18:00+00:00,Pembroke Pines,Florida,United States,,ROBINSON R44 HELI,Maneuvering-hover,
+203213,ANC26LA060,2026-06-13 08:00:00+00:00,Steamboat Springs,Colorado,United States,,BEECH E33 AIR,Takeoff,
+203177,WPR26LA218,2026-06-13 01:55:00+00:00,Graham,Texas,United States,,PIPER PA-24-400 AIR,Enroute,
+203181,GAA26WA217,2026-06-12 04:00:00+00:00,6th of October City,Other Foreign,Egypt,,CESSNA 172 AIR,Unknown,
+203160,ANC26LA049,2026-06-10 10:00:00+00:00,Alpine,Colorado,United States,,WILLIAM F SCHOEN RV-7 AIR,Initial climb,
+203161,WPR26LA215,2026-06-09 20:20:00+00:00,Cleburne,Texas,United States,,CESSNA 172 AIR,Takeoff-rejected takeoff,
+203170,ERA26LA238,2026-06-09 12:00:00+00:00,Pompano Beach,Florida,United States,,COSTRUZIONI AERONAUTICHE TECNA P-MENTOR AIR,Landing-flare/touchdown,
+203147,ERA26LA234,2026-06-08 15:15:00+00:00,Mayesville,South Carolina,United States,,ROBINSON HELICOPTER R44 HELI,Maneuvering-low-alt flying,
+203141,GAA26WA210,2026-06-07 04:00:00+00:00,La Romana,Other Foreign,Dominican Republic,,GULFSTREAM GULFSTREAM 200,Unknown,
+203132,ERA26FA230,2026-06-06 14:58:00+00:00,Kissimmee,Florida,United States,,CESSNA 150 AIR,Takeoff,
+203140,CEN26LA220,2026-06-06 09:00:00+00:00,Fabens,Texas,United States,,AERO COMMANDER 112 AIR,Initial climb,
+203163,DCA26WA235,2026-06-03 09:58:00+00:00,Horley,Other Foreign,United Kingdom,,AIRBUS A321,Landing,
+203106,ENG26LA026,2026-06-02 09:45:00+00:00,Athens,Georgia,United States,,CIRRUS SF50 AIR,Initial climb,
+203111,CEN26LA217,2026-06-02 08:37:00+00:00,Coffeyville,Kansas,United States,,AUTOGYRO CAVALON HELI,Takeoff,
+203176,ANC26LA050,2026-05-31 13:00:00+00:00,Steele Creek,Alaska,United States,,CESSNA A185F AIR,Takeoff,
+203093,CEN26LA209,2026-05-30 18:22:00+00:00,Jonesboro,Arkansas,United States,,BELLANCA 7GCBC AIR,Maneuvering,
+203102,WPR26LA204,2026-05-30 09:00:00+00:00,Robbins,California,United States,,AIR TRACTOR INC AT-602 AIR,Enroute-cruise,
+203078,ERA26LA221,2026-05-29 11:38:00+00:00,Pembroke Pines,Florida,United States,,CESSNA 172P AIR,Initial climb,
+203105,WPR26LA206,2026-05-28 11:58:00+00:00,Cascade,Idaho,United States,,CESSNA 177B AIR,Approach-VFR go-around,
+203087,GAA26WA203,2026-05-28 08:50:00+00:00,Nyíregyháza,Other Foreign,Hungary,,CIRRUS SR22 AIR,Unknown,
+203193,DCA26WA238,2026-05-27 00:00:00+00:00,Sidi Errabia,Other Foreign,Algeria,,BOEING 737,Enroute-climb to cruise,
+203054,ERA26FA214,2026-05-26 13:47:00+00:00,Saratoga Springs,New York,United States,,PIPER PA-25-235 AIR,Initial climb,
+203076,CEN26LA203,2026-05-26 08:48:00+00:00,Fort Worth,Texas,United States,,ROBINSON HELICOPTER CO R66 HELI,Maneuvering-hover,
+203096,CEN26LA212,2026-05-24 11:00:00+00:00,Georgetown,Texas,United States,,CESSNA 172S AIR,Landing,
+203150,ERA26LA235,2026-05-23 09:54:00+00:00,Bartow,Florida,United States,,PIPER PA-24-250 AIR,Landing,
+203075,CEN26LA202,2026-05-22 18:40:00+00:00,Comanche,Texas,United States,,PIPER PA-32R-300,Initial climb,
+203107,CEN26LA216,2026-05-20 17:45:00+00:00,Northport,Michigan,United States,,CESSNA 182P AIR,Taxi,
+203142,GAA26WA211,2026-05-20 13:45:00+00:00,Aquidauana,Other Foreign,Brazil,,NEW GLASAIR GLASAIR SUPER II AIR,Enroute-cruise,
+203047,ERA26LA213,2026-05-18 12:30:00+00:00,Statesville,North Carolina,United States,,CESSNA 177RG AIR,Landing,
+203346,GAA26WA248,2026-05-16 09:30:00+00:00,Limburghof,Other Foreign,Germany,,NORTH AMERICAN T28 AIR,Unknown,
+203026,DCA26WA209,2026-05-16 04:00:00+00:00,Split,,Croatia,,Airbus 220 AIR,Takeoff-rejected takeoff,
+203014,GAA26WA192,2026-05-16 04:00:00+00:00,Lincolnshire,Other Foreign,United Kingdom,,SONEX AIRCRAFT SONEX AIR,Approach-VFR pattern final,
+202990,WPR26FA186,2026-05-14 00:15:00+00:00,Lincoln,New Mexico,United States,,BEECH C90 AIR,Approach,
+203008,WPR26LA194,2026-05-13 15:35:00+00:00,Palo Alto,California,United States,"The pilot’s failure to maintain directional control during the landing roll, in gusting crosswind conditions.",AUTOGYRO CAVALON GYRO,Landing-landing roll,0106203020|0106202020|0206304044|0303404081|0303404581
+203005,CEN26LA188,2026-05-13 14:40:00+00:00,Corpus Christi,Texas,United States,,PIPER PA-34-220T AIR,Landing-flare/touchdown,
+202998,WPR26LA187,2026-05-12 16:52:00+00:00,Sedona,Arizona,United States,,CIRRUS DESIGN CORP SR20 AIR,Landing-landing roll,
+202994,DCA26LA203,2026-05-12 04:00:00+00:00,Gulf of America,Gulf of America,United States,,SHIELD AI INC V-BAT UNMANNED,Standing-engine(s) operating,
+202973,WPR26LA182,2026-05-11 21:00:00+00:00,Jurupa Valley,California,United States,,AMERICAN AA-5 AIR,Landing,
+202980,GAA26WA188,2026-05-07 17:37:00+00:00,Augsburg,Other Foreign,Germany,,HAWKER BEECHCRAFT CORP B300 AIR,Unknown,
+202951,CEN26LA181,2026-05-07 12:03:00+00:00,Oxford,Colorado,United States,,HUGHES 369HS HELI,Landing-flare/touchdown,
+202952,ANC26FA039,2026-05-07 10:55:00+00:00,Armistead,California,United States,,CESSNA 182T AIR,Unknown,
+202936,WPR26LA176,2026-05-03 08:15:00+00:00,Rio Rancho,New Mexico,United States,"The passenger’s improper hand placement on the basket upright during landing, which resulted in injury when the upright fractured during the basket’s bounce and drag sequence.",CAMERON BALLOONS US C-80 BALL,Landing-flare/touchdown,0204101043|0203201043
+202926,ERA26LA196,2026-05-01 16:04:00+00:00,Bangor,Maine,United States,,BEECH C23 AIR,Initial climb,
+202924,ERA26LA195,2026-05-01 12:30:00+00:00,Bealeton,Virginia,United States,,AIR TRACTOR INC AT-602 AIR,Landing,
+202913,ANC26LA034,2026-04-29 18:30:00+00:00,Palmer,Alaska,United States,,PIPER PA-18S-150 AIR,Landing,
+202919,GAA26WA181,2026-04-29 04:00:00+00:00,"Cumayasa, La Romana",Other Foreign,Dominican Republic,,PIPER PA-23-250 AIR,Unknown,
+202908,GAA26WA179,2026-04-29 04:00:00+00:00,Parafield,Other Foreign,Australia,,DIAMOND DA42 AIR,Unknown,
+202953,WPR26LA178,2026-04-25 10:26:00+00:00,Everett,Washington,United States,,CESSNA 162 AIR,Landing-landing roll,
+202893,ERA26LA189,2026-04-24 17:49:00+00:00,Kissimmee,Florida,United States,,PIPER PA-34-220T AIR,Landing-flare/touchdown,
+202882,ANC26LA032,2026-04-24 10:45:00+00:00,Aniak,Alaska,United States,,CESSNA A185F AIR,Landing,
+202879,ERA26LA186,2026-04-22 14:00:00+00:00,Crystal River,Florida,United States,,CESSNA 172M,Takeoff,
+202901,WPR26LA168,2026-04-21 16:30:00+00:00,Española,New Mexico,United States,The pilot’s loss of of directional control during landing roll following an encounter with a dust devil.,CESSNA 150H AIR,Landing-landing roll,0106202020|0303404585|0303406086|0303406091
+202950,ERA26LA199,2026-04-20 14:30:00+00:00,Greenwood,South Carolina,United States,"The glider pilot’s encounter with a strong sink/loss of lift, which resulted in a forced landing to unsuitable terrain.",ALEXANDER SCHLEICHER GMBH & CO ASW 27-18 GLI,Enroute-cruise,0303104099|0303403582|0106201221|0302101791
+202993,GAA26WA190,2026-04-18 02:45:00+00:00,Sao Paulo,Other Foreign,Brazil,,CESSNA U206 AIR,Unknown,
+202840,ERA26FA178,2026-04-17 14:14:00+00:00,Ironton,Ohio,United States,,MOONEY M20J AIR,Emergency descent,
+202859,ERA26LA182,2026-04-17 11:52:00+00:00,Crestview,Florida,United States,,DONALD E JOHNSTON VELOCITY XL-RG AIR,Landing,
+202853,ANC26LA026,2026-04-16 10:15:00+00:00,Juneau,Alaska,United States,,CESSNA U206F AIR,Enroute-cruise,
+202824,CEN26LA165,2026-04-14 04:17:00+00:00,Peyton,Colorado,United States,,PIPISTREL Alpha Trainer AIR,Enroute,
+202830,ERA26LA174,2026-04-13 17:28:00+00:00,The Rock,Georgia,United States,"The pilot’s improper landing flare, which resulted in a hard, porpoised landing.",CESSNA 172S AIR,Landing-flare/touchdown,0106204120|0206304046
+202819,ERA26LA169,2026-04-10 17:32:00+00:00,Iron Station,North Carolina,United States,,ERIC VARGOSKO SW-51 AIR,Takeoff,
+202834,GAA26WA165,2026-04-10 12:45:00+00:00,"Goiânia,",,Brazil,,PIPER PA30 AIR,Unknown,
+202806,WPR26LA155,2026-04-10 12:10:00+00:00,Ennis,Montana,United States,,AERO VODOCHODY L-39 AIR,Approach,
+202782,WPR26FA151,2026-04-08 17:10:00+00:00,Marana,Arizona,United States,,PIPER PA-32R-301T AIR,Landing,
+202787,WPR26LA152,2026-04-08 11:06:00+00:00,Great Falls,Montana,United States,,Just Aircraft Highlander AIR,Landing-landing roll,
+202763,CEN26LA160,2026-04-06 16:39:00+00:00,Tahlequah,Oklahoma,United States,"The student pilot’s failure to maintain directional control while landing, which resulted in a runway excursion and nose over.",CESSNA 172N AIR,Landing,0106202020|0206304046
+202757,WPR26LA146,2026-04-04 16:00:00+00:00,Chimney Rock,Montana,United States,"The pilot’s failure to maintain adequate clearance from the terrain while performing a lowaltitude circling takeoff maneuver, which resulted in a dynamic rollover.",BELL HELICOPTER TEXTRON 206L-1 HELI,Maneuvering-low-alt flying,0202154544|0206304044|0302101791
+202754,GAA26WA150,2026-04-03 13:38:00+00:00,Capão da Canoa,Other Foreign,Brazil,,PIPER PA46 AIR,Unknown,
+202778,CEN26LA163,2026-04-03 11:05:00+00:00,Wichita,Kansas,United States,,TEXTRON AVIATION INC T206H AIR,Initial climb,
+202744,ERA26LA157,2026-03-31 19:30:00+00:00,Mount Pleasant,South Carolina,United States,,CIRRUS DESIGN CORP SR22T AIR,Takeoff,
+202935,GAA26WA184,2026-03-31 14:36:00+00:00,Yorke Island,Other Foreign,Australia,,ROBINSON R44 HELI,Initial climb,
+202736,GAA26WA144,2026-03-31 04:00:00+00:00,Pucallpa,Other Foreign,Peru,,CESSNA 182 AIR,Other,
+202723,CEN26LA152,2026-03-29 12:15:00+00:00,Boulder,Colorado,United States,,ELA AVIATION USA ECLIPSE 10 HELI,Takeoff,
+202734,GAA26WA142,2026-03-29 09:00:00+00:00,Ausnek,,Namibia,,CESSNA 172 AIR,Maneuvering-low-alt flying,
+202880,GAA26WA171,2026-03-28 18:22:00+00:00,New Brunswick,Other Foreign,Canada,,ROBINSON R44,Unknown,
+202706,GAA26WA140,2026-03-26 12:16:00+00:00,San Juan,Other Foreign,Ecuador,,THRUSH S2R AIR,Unknown,
+202708,DCA26WA166,2026-03-26 07:40:00+00:00,Bari,,Italy,,BOEING 737 AIR,Enroute-cruise,
+202712,ERA26LA151,2026-03-25 16:51:00+00:00,Block Island,Rhode Island,United States,"Maintenance personnel’s failure to ensure that the throttle cable was properly secured to the carburetor, which resulted an inflight separation of the throttle cable and the pilots’ inability to control the engine.",PIPER PA-32-260 AIR,Landing,0206203541|0105732215
+202690,WPR26LA137,2026-03-23 12:39:00+00:00,Fairfield,Utah,United States,The pilot’s failure to maintain directional control during the landing roll. Contributing to the accident was nose wheel misalignment at touchdown.,SALT LAKE GYROCOPTERS LLC CALIDUS GYRO,Landing-flare/touchdown,0206304044|0106202020
+202674,DCA26MA161,2026-03-22 23:37:00+00:00,New York,New York,United States,,MITSUBISHI CL-600 AIR,Landing-landing roll,
+202673,CEN26FA142,2026-03-22 14:18:00+00:00,Sharp,Louisiana,United States,,Beechcraft B200GT AIR,Enroute,
+202671,CEN26FA141,2026-03-20 15:03:00+00:00,Rock Falls,Illinois,United States,,PIPER PA-28-140 AIR,Unknown,
+202685,WPR26LA135,2026-03-20 14:30:00+00:00,Big Bear,California,United States,The pilot's failure to maintain directional control during the landing roll with a quartering tailwind.,CESSNA 195 AIR,Landing,0206304044|0106202020|0303401582
+202679,CEN26LA143,2026-03-20 14:15:00+00:00,Denton,Texas,United States,,CESSNA 172P AIR,Takeoff,
+202687,CEN26LA144,2026-03-18 16:38:00+00:00,Northlake,Texas,United States,The pilot’s inadequate fuel management which resulted in a total loss of engine power due to fuel starvation.,MOONEY M20 AIR,Enroute-cruise,0107101025|0107101011|0105850001|0202152044|0204101044|0206301544|0204151044
+202658,CEN26FA140,2026-03-17 00:24:00+00:00,Chesterfield,Missouri,United States,,AERO COMMANDER 500-B AIR,Takeoff,
+202662,ERA26LA150,2026-03-14 12:32:00+00:00,Athens,Georgia,United States,The pilot’s failure to extend the landing gear before landing.,PIPER PA-24-260 AIR,Landing,0204103544|0206301544|0102323010
+202676,DCA26WA162,2026-03-13 04:00:00+00:00,Misawa,Other Foreign,Japan,,BOEING 737 AIR,Takeoff,
+202637,WPR26LA124,2026-03-11 10:26:00+00:00,Upland,California,United States,"The pilot’s improper approach, which resulted in a long landing, runway excursion, and a nose over.",CESSNA T210 AIR,Landing-landing roll,0106204020|0106201011
+202634,ERA26LA145,2026-03-10 19:15:00+00:00,Whitmire,South Carolina,United States,,ROCKWELL INTERNATIONAL 114 AIR,Enroute-cruise,
+202622,ERA26LA144,2026-03-08 11:00:00+00:00,Indian Trail,North Carolina,United States,,PIPER PA-28-140 AIR,Initial climb,
+202617,ANC26LA018,2026-03-07 23:10:00+00:00,Fort Worth,Texas,United States,,BELL TEXTRON CANADA LTD 505 HELI,Takeoff,
+202619,CEN26LA137,2026-03-07 14:23:00+00:00,Lockhart,Texas,United States,,PIPER PA-12 AIR,Takeoff,
+202609,GAA26WA123,2026-03-05 05:00:00+00:00,Aberdeen,Other Foreign,United Kingdom,,SIKORSKY S92 HELI,Unknown,
+202602,CEN26FA132,2026-03-04 22:45:00+00:00,Deerfield,Illinois,United States,,CESSNA T210M AIR,Unknown,
+202610,CEN26LA134,2026-03-04 14:15:00+00:00,Sonora,Texas,United States,,PIPER PA-18-150 AIR,Initial climb,
+202621,ERA26LA143,2026-03-01 18:30:00+00:00,Carthage,North Carolina,United States,The pilot’s failure to maintain clearance from trees while on final approach for landing. Contributing to the accident were the flight instructor’s inadequate remedial actions.,CESSNA 172 AIR,Approach-VFR pattern final,0106202020|0206304044|0202153540
+202590,DCA26WA147,2026-03-01 05:00:00+00:00,San Salvador,Other Foreign,El Salvador,,BOEING 737-823 AIR,Initial climb,
+202587,GAA26WA120,2026-02-28 17:10:00+00:00,Egelsbach,Other Foreign,Germany,,BEECH B-60 AIR,Maneuvering-low-alt flying,
+202574,DCA26LA142,2026-02-27 14:53:00+00:00,Houston,Texas,United States,,BOEING 787 AIR,Landing-flare/touchdown,
+202558,CEN26FA126,2026-02-26 14:30:00+00:00,Rogers,Arkansas,United States,,PECK JODEL-F12 AIR,Enroute,
+202598,GAA26WA121,2026-02-26 10:30:00+00:00,Barreirinhas,Other Foreign,Brazil,,CESSNA 172 AIR,Approach-VFR pattern downwind,
+202490,ERA26LA123,2026-02-23 14:34:00+00:00,Monroe,North Carolina,United States,The pilot’s failure to maintain directional control while landing in gusting crosswind conditions.,PIPER PA-28-180 AIR,Landing,0206304044|0106202020|0303404585
+202478,ERA26FA120,2026-02-22 16:10:00+00:00,Evergreen,Alabama,United States,,AIRBUS HELICOPTERS EC 130 T2 HELI,Landing,
+202508,DCA26WA136,2026-02-22 13:00:00+00:00,Maiquetía,Other Foreign,Venezuela,,MCDONNELL DOUGLAS DC-9 AIR,Takeoff,
+202507,GAA26WA117,2026-02-19 15:00:00+00:00,Amaranka,,Russia,,ROBINSON R44 HELI,Maneuvering,
+202459,ERA26LA118,2026-02-19 10:30:00+00:00,Homestead,Florida,United States,,TECNAM P2006T AIR,Enroute-cruise,
+202659,DCA26WA158,2026-02-18 14:29:00+00:00,Cologne,Other Foreign,Germany,,BOEING 737 AIR,Approach,
+202442,GAA26WA107,2026-02-14 05:00:00+00:00,Blanca Piedra,,Ecuador,,PIPER PA36 AIR,Unknown,
+202444,CEN26LA117,2026-02-13 17:00:00+00:00,De Smet,South Dakota,United States,The pilot’s failure to maintain directional control during landing.,BELLANCA 8GCBC AIR,Landing,0204151099|0106202020|0203201544
+202448,WPR26LA105,2026-02-13 16:42:00+00:00,Three Forks,Montana,United States,The pilot’s failure to maintain directional during the landing roll with a variable wind.,PIPER PA-20 AIR,Landing-landing roll,0206304044|0106202020|0303402582
+202577,DCA26WA143,2026-02-12 05:00:00+00:00,Exhuma,,Bahamas,,BOMBARDIER INC CL-600-2D24 AIR,Approach-VFR pattern final,
+202429,ERA26LA112,2026-02-09 18:05:00+00:00,Umatilla,Florida,United States,"The failure of the right main landing gear during the landing roll, which resulted in a loss of control on the ground and collision with an airport sign.",BEECH B19 AIR,Landing-landing roll,0102321006
+202433,ERA26LA113,2026-02-09 17:21:00+00:00,Bartow,Florida,United States,,CESSNA 320C AIR,Landing-landing roll,
+202406,CEN26LA110,2026-02-06 19:10:00+00:00,Beaumont,Texas,United States,,Glasair GlaStar AIR,Initial climb,
+202409,ERA26LA108,2026-02-06 12:30:00+00:00,Palmetto,Florida,United States,,STINSON 108-3 AIR,Approach-VFR go-around,
+202422,ERA26LA111,2026-02-06 12:15:00+00:00,Thomson,Georgia,United States,An in-flight collision with a bird while maneuvering.,CIRRUS DESIGN CORP SR22T AIR,Maneuvering,0302204581
+202657,GAA26WA131,2026-02-04 20:34:00+00:00,OF,,Australia,,Avion Mudry CAP 10B AIR,Maneuvering-aerobatics,
+202391,WPR26LA096,2026-02-04 13:45:00+00:00,St. George,Utah,United States,"The pilot’s improper application of brakes, which resulted in a nose over.",CHAMPION 7ECA AIR,Landing-landing roll,0206304044|0106202020
+202390,GAA26WA092,2026-02-03 05:00:00+00:00,Las Cayes,Other Foreign,Haiti,,PIPER PA31 AIR,Enroute-cruise,
+202387,CEN26LA108,2026-01-30 10:30:00+00:00,Durango,Colorado,United States,The ground crewmember’s failure to immediately let go of the balloon after it began an inadvertent climb while landing.,ADAMS BALLOON A55S BALL,Landing,0204102539
+202413,DCA26WA114,2026-01-29 17:09:00+00:00,Canberra,,Australia,,SAAB 340B AIR,Initial climb,
+202364,ERA26LA100,2026-01-29 13:30:00+00:00,Floral City,Florida,United States,The student pilot’s loss of helicopter control during landing.,BELL 47G-3B HELI,Landing,0206304044|0106202420
+202350,GAA26WA085,2026-01-28 04:18:00+00:00,Sawantwadi,Other Foreign,India,,LEARJET 45XR,Approach-IFR final approach,
+202358,DCA26LA104,2026-01-27 12:20:00+00:00,Houston,Texas,United States,,MARTIN/GENERAL DYNAMICS WB-57F AIR,Landing,
+202352,GAA26WA086,2026-01-27 06:55:00+00:00,Norwell,Other Foreign,Austria,,VANS RV-8A AIR,Enroute-cruise,
+202410,GAA26WA097,2026-01-23 18:14:00+00:00,Pucallpa,Other Foreign,Peru,,CESSNA C152 AIR,Unknown,
+202394,GAA26WA093,2026-01-22 17:13:00+00:00,Lelystad,Other Foreign,Netherlands,,PIPER PA-28-181 AIR,Takeoff,
+202335,WPR26LA089,2026-01-22 15:30:00+00:00,Newkirk,New Mexico,United States,"The pilots inadequate preflight planning and improper in-flight decision-making, which resulted in a total loss of engine power due to fuel exhaustion and a subsequent landing on rough terrain.",PIPER PA-23 AIR,Prior to flight,0302101591|0206151040|0206103040|0204152040
+202312,CEN26FA093,2026-01-18 17:40:00+00:00,Holly Springs,Mississippi,United States,,PIPER PA-28-140 AIR,Takeoff,
+202313,WPR26FA082,2026-01-18 16:10:00+00:00,Kamas,Utah,United States,,BELL HELICOPTER TEXTRON 206L-1 HELI,Landing,
+202411,GAA26WA098,2026-01-18 15:24:00+00:00,Mt Hotham Aerodrome,,Australia,,BELL 212 HELI,Maneuvering-low-alt flying,
+202319,CEN26LA094,2026-01-16 12:30:00+00:00,Amery,Wisconsin,United States,,CESSNA 172K AIR,Approach-VFR pattern downwind,
+202353,DCA26LA102,2026-01-15 13:53:00+00:00,Kodiak,Alaska,United States,The reduced surface friction of the contaminated ramp which led to a loss of directional control during taxi.,BOEING 737 AIR,Taxi,0302301582|0206304044
+202670,DCA26WA160,2026-01-15 05:00:00+00:00,Simberi,,Papua New Guinea,,ATR ATR42 AIR,Landing,
+202293,DCA26WA092,2026-01-12 06:55:00+00:00,Auckland,,New Zealand,,SAAB SF340 AIR,Enroute,
+202282,ERA26LA091,2026-01-10 20:25:00+00:00,Port St. Lucie,Florida,United States,,PIPER PA-28-180 AIR,Initial climb,
+202281,GAA26WA070,2026-01-10 14:17:00+00:00,Kansar,,India,,CESSNA 208 AIR,Enroute,
+202304,CEN26LA092,2026-01-07 15:03:00+00:00,San Marcos,Texas,United States,"The flight instructor’s failure to properly configure the elevator trim for the takeoff, that resulted in a hard landing. Contributing to the accident was the flight instructor’s failure to follow the before takeoff checklist.",CESSNA 172 AIR,Takeoff,0206303040|0206304040|0102273011|0202152040|0204103540
+202286,GAA26WA071,2026-01-07 12:59:00+00:00,Nuwara Eliya,,Sri Lanka,,CESSNA 208 AIR,Landing-aborted after touchdown,
+202253,CEN26LA079,2026-01-05 16:45:00+00:00,Fredericksburg,Texas,United States,,CANARD AERO LLC SW-51 MUSTANG AIR,Initial climb,
+202237,WPR26FA074,2026-01-02 12:00:00+00:00,Superior,Arizona,United States,,MD HELICOPTERS LLC 369FF HELI,Maneuvering-low-alt flying,
+202248,CEN26LA075,2025-12-31 18:05:00+00:00,Guthrie,Oklahoma,United States,The pilot's failure to maintain directional control during landing with a quartering left crosswind.,STEEN SKYBOLT AIR,Landing,0106202020|0206304044|0303404082
+202249,CEN26LA076,2025-12-31 17:10:00+00:00,Burnet,Texas,United States,"The pilot’s failure to secure the airplane before hand-propping the engine, which resulted in the airplane’s unexpected movement and subsequent impact with an airport fence.",NANCHANG CHINA CJ-6A AIR,Standing-engine(s) start-up,0106202020|0101102027|0206100044|0206301544|0206303544|0204103044|0206304044
+202222,WPR26LA073,2025-12-27 12:09:00+00:00,Needles,California,United States,,EVEKTOR - AEROTECHNIK A S SPORTSTAR MAX AIR,Enroute-cruise,
+202227,GAA26WA059,2025-12-27 05:00:00+00:00,Rio de Janeiro,Other Foreign,Brazil,,CESSNA 170 AIR,Maneuvering-low-alt flying,
+202265,CEN26LA082,2025-12-26 17:30:00+00:00,Wimberley,Texas,United States,,WAG AERO CUBY AIR,Enroute,
+202205,DCA26WA078,2025-12-22 14:27:00+00:00,Chiba,,Japan,,BOEING 787 AIR,Enroute-cruise,
+202260,CEN26LA080,2025-12-21 14:42:00+00:00,Prospect Heights,Illinois,United States,,CESSNA 150 AIR,Approach-VFR pattern final,
+202199,ERA26LA075,2025-12-20 18:15:00+00:00,Hawthorne,Florida,United States,"The pilot’s failure to maintain an appropriate descent rate for a glassy water landing, which resulted in a hard landing.",AVIAT AIRCRAFT INC A-1C-200 AIR,Landing,0302302585|0106203720|0204103044
+202240,CEN26LA072,2025-12-18 13:55:00+00:00,Muleshoe,Texas,United States,,CIRRUS DESIGN CORP SR22T AIR,Takeoff,
+202178,CEN26FA064,2025-12-17 14:49:00+00:00,West Chicago,Illinois,United States,,PIPER PA-30 AIR,Unknown,
+202183,WPR26LA064,2025-12-17 13:30:00+00:00,Silver Springs,Nevada,United States,,MOONEY M20J AIR,Landing-aborted after touchdown,
+202173,WPR26LA060,2025-12-15 16:26:00+00:00,Tracy,California,United States,,BEECHCRAFT CORP G36 AIR,Enroute-cruise,
+202177,WPR26LA062,2025-12-15 03:18:00+00:00,Las Vegas,Nevada,United States,Tail rotor blade impact from an unidentified object at an undetermined time.,BELL 407 HELI,Unknown,0500000000|0104641005
+203022,GAA26WA194,2025-12-14 10:34:00+00:00,Kano,Other Foreign,Nigeria,,HAWKER 800XP AIR,Unknown,
+202145,ERA26LA066,2025-12-11 20:40:00+00:00,Pell City,Alabama,United States,,CESSNA TU206 AIR,Landing-flare/touchdown,
+202152,ERA26LA068,2025-12-11 11:25:00+00:00,Fort Pierce,Florida,United States,"The pilot’s inadequate visual lookout while taxing, which resulted in the airplane striking a light pole.",PIPER PA-28-181 AIR,Taxi-from runway,0202154544|0302201087
+202259,GAA26WA063,2025-12-11 08:55:00+00:00,Le Havre,Other Foreign,France,,ROBIN DR400 AIR,Initial climb,
+202129,ERA26LA063,2025-12-08 15:00:00+00:00,DeLand,Florida,United States,"The flight instructor’s inadequate fuel quantity inspection, which resulted in a total loss of engine power due to fuel exhaustion.",CESSNA 172 AIR,Enroute,0206103040|0107101015|0107101025
+202171,DCA26WA075,2025-12-08 13:20:00+00:00,Balice,,Poland,,BOEING 737 AIR,Enroute-climb to cruise,
+202124,ERA26LA062,2025-12-07 18:30:00+00:00,Pensacola,Florida,United States,The pilot’s exceedance of the critical angle of attack during initial climb which resulted in an aerodynamic stall.,CESSNA 172 AIR,Initial climb,0206304044|0206103044|0106201020|0106204220
+202111,WPR26FA054,2025-12-05 09:58:00+00:00,Pryor,Oklahoma,United States,,HUGHES 369D HELI,Maneuvering-low-alt flying,
+202117,DCA26WA057,2025-12-04 03:14:00+00:00,Nan Ning Shi,Other Foreign,China,,BOEING 767 AIR,Enroute,
+202081,GAA26WA034,2025-11-30 13:09:00+00:00,New South Wales.,,Austria,,VANS RV7 AIR,Landing,
+202102,GAA26WA036,2025-11-28 05:00:00+00:00,Para De Minas,Other Foreign,Brazil,,BEECH E90 AIR,Takeoff,
+202079,CEN26LA055,2025-11-27 16:10:00+00:00,Brazos,Texas,United States,The pilot’s failure to maintain clearance from power lines during low-level maneuvering along a river.,JUST Highlander AIR,Maneuvering-low-alt flying,0202154544|0106201220|0302203287
+202087,ERA26LA058,2025-11-26 17:40:00+00:00,Inverness Highlands South,Florida,United States,The pilot’s failure to maintain directional control on takeoff. Contributing to the accident was the aircraft design that did not incorporate differential braking.,HUEBBE TOM MAX TH AIR,Takeoff,0102324007|0204101536
+202050,CEN26FA050,2025-11-25 00:13:00+00:00,Monroe,Wisconsin,United States,,SOCATA TBM 700 AIR,Approach-IFR final approach,
+202049,ANC26LA007,2025-11-24 15:00:00+00:00,Wasilla,Alaska,United States,"The pilot’s inadequate preflight inspection, and inadequate inflight fuel management, which resulted in a total loss of engine power due to fuel starvation and subsequent forced landing.",Danchini Aero Danchini Cub AIR,Initial climb,0206151044|0206303044|0107101025
+202058,ERA26LA054,2025-11-24 11:00:00+00:00,Zanesville,Ohio,United States,The pilot’s failure to maintain clearance from a power line during an approach to land.,CESSNA 172 AIR,Approach-VFR pattern base,0302203281|0106201220|0202154544
+202039,WPR26LA049,2025-11-20 14:00:00+00:00,Shady Cove,Oregon,United States,"The pilot’s improper throttle input during an approach, which resulted in a rapid descent, hard landing and runway excursion.",ZENAIR LTD STOL CH 701 AIR,Landing-flare/touchdown,0204101544|0105760011
+202091,DCA26WA049,2025-11-20 05:00:00+00:00,Seville,Other Foreign,Spain,,BOEING 737 AIR,Takeoff,
+202053,ERA26LA052,2025-11-19 17:30:00+00:00,Beaufort,South Carolina,United States,,TOOMEY Long EZ AIR,Enroute-cruise,
+202056,DCA26WA042,2025-11-14 20:00:00+00:00,Malaga,Other Foreign,Spain,,BOEING 737 AIR,Approach-IFR missed approach,
+202008,ERA26FA039,2025-11-14 18:08:00+00:00,New Bavaria,Ohio,United States,,JABIRU USA SPORT AIRCRAFT LLC J230-SP AIR,Maneuvering,
+202021,ERA26LA045,2025-11-14 12:45:00+00:00,Edgewater,Florida,United States,The pilot’s failure to extend the landing gear prior to landing.,BEECH 95 AIR,Landing-flare/touchdown,0204103544|0102323411
+202006,DCA26WA031,2025-11-13 11:15:00+00:00,N'Djamena,Other Foreign,Chad,,BOEING 747 AIR,Landing-flare/touchdown,
+202029,CEN26LA047,2025-11-12 21:35:00+00:00,Sheboygan Falls,Wisconsin,United States,The flight instructor’s failure to arrest the airplane’s descent rate during a takeoff simulated engine failure which resulted in a hard landing.,ENGINEERING & RESEARCH 415 AIR,Takeoff,0106203717
+201997,CEN26LA045,2025-11-12 15:10:00+00:00,Muscatine,Iowa,United States,,CESSNA TU206F AIR,Taxi,
+202018,WPR26LA047,2025-11-09 13:05:00+00:00,Lancaster,California,United States,,CESSNA 172S AIR,Landing-flare/touchdown,
+201986,WPR26LA042,2025-11-09 12:05:00+00:00,Marana,Arizona,United States,The pilot’s improper starting procedure which resulted in the airplane’s unexpected movement and subsequent impact with an airport fence.,CESSNA 150 AIR,Standing-engine(s) start-up,0101102027|0206100044|0206301544|0204101544
+201976,ERA26LA037,2025-11-09 06:10:00+00:00,Southern Pines,North Carolina,United States,"The pilot’s failure to maintain directional control during takeoff at night, while distracted by an animal approaching the runway, which resulted in collision with a runway light.",BEECH 95-A55 AIR,Takeoff,0206304044|0202151044|0106202020
+201982,DCA26WA027,2025-11-07 02:25:00+00:00,Al-Dajeej,Other Foreign,Kuwait,,BOEING 777 AIR,Other,
+201972,GAA26WA021,2025-11-06 21:45:00+00:00,Contamana,Other Foreign,Peru,,PIPER PA32RT AIR,Approach,
+202055,ENG26WA010,2025-11-06 15:00:00+00:00,Lake Rotorua,Other Foreign,New Zealand,,DE HAVILLAND DHC3 AIR,Enroute-cruise,
+201958,DCA26MA024,2025-11-04 18:14:00+00:00,Louisville,Kentucky,United States,,MCDONNELL DOUGLAS MD-11F AIR,Takeoff,
+201996,DCA26WA029,2025-11-04 06:30:00+00:00,Mashhad,Other Foreign,Iran,,MCDONNELL DOUGLAS MD88 AIR,Enroute-climb to cruise,
+201957,WPR26LA038,2025-11-03 13:50:00+00:00,San Andreas,California,United States,"The pilot’s decision to adjust his seat during the takeoff roll, which resulted in the seat sliding aft and a subsequent loss of directional control.",CESSNA 182P AIR,Takeoff,0204101044|0206304044|0106202020
+201939,GAA26WA016,2025-10-30 15:01:00+00:00,Bentley,Other Foreign,United Kingdom,,ROBINSON R44 HELI,Emergency descent,
+202453,ANC26LA020,2025-10-29 12:00:00+00:00,Mapleton,Iowa,United States,,CESSNA 182Q AIR,Enroute,
+201936,WPR26LA034,2025-10-28 18:45:00+00:00,La Verne,California,United States,,PIPER PA-28R-200 AIR,Enroute,
+201920,GAA26WA013,2025-10-25 04:00:00+00:00,Ilopango,Other Foreign,El Salvador,,CESSNA 210 AIR,Enroute-cruise,
+201925,ERA26LA024,2025-10-24 18:15:00+00:00,Somerville,Tennessee,United States,,PIPER PA-28-140 AIR,Initial climb,
+201917,DCA26FA019,2025-10-23 12:11:00+00:00,Indiantown,Florida,United States,,AIR VEV INC AIR ZERO2 UNMANNED,Landing-flare/touchdown,
+201912,WPR26LA030,2025-10-20 16:03:00+00:00,Long Beach,California,United States,,RUTAN Long-EZ AIR,Enroute,
+201898,WPR26LA025,2025-10-19 17:53:00+00:00,Queen Creek,Arizona,United States,"The pilot’s improper runway alignment and failure to maintain clearance from powerlines. Contributing to the accident was sun glare, which obscured the pilot’s view of the runway.",PIPER AIRCRAFT INC PA 46-350P AIR,Approach-VFR pattern final,0303603083|0204151044|0302203286|0302203291
+201892,CEN26LA025,2025-10-19 16:30:00+00:00,Eau Claire,Wisconsin,United States,The pilot’s failure to ensure that the landing gear was properly extended before landing. Contributing to the accident was the pilot’s unfamiliarity with the landing gear warning horn and failure to verify the gear was extended with the cockpit position indicators.,PIPER PA-24-250 AIR,Landing-flare/touchdown,0206301544|0202152544|0102323010
+201893,GAA26WA011,2025-10-17 04:00:00+00:00,Morona Santiago,Other Foreign,Ecuador,,CESSNA 172 AIR,Taxi-to runway,
+201877,DCA26LA012,2025-10-16 06:43:00+00:00,Moab,Utah,United States,,BOEING 737 AIR,Enroute-cruise,
+201865,CEN26LA020,2025-10-15 14:57:00+00:00,Reserve,Louisiana,United States,The pilot’s inadvertent application of the wheel brakes after touchdown.,PIPER PA18 AIR,Landing-landing roll,0106105011
+201836,ERA26FA011,2025-10-13 08:15:00+00:00,Dartmouth,Massachusetts,United States,,SOCATA TBM 700 AIR,Takeoff,
+201871,DCA26WA010,2025-10-13 01:46:00+00:00,Ezeiza,Other Foreign,Argentina,,BOEING 767 AIR,Taxi,
+201835,ERA26FA010,2025-10-12 13:34:00+00:00,Fort Worth,Texas,United States,,BEECH C90 AIR,Approach-VFR pattern final,
+201856,ERA26LA015,2025-10-10 19:45:00+00:00,New Milford,Connecticut,United States,"The pilot’s decision to depart from an unlit turf runway at night, which resulted in a loss of directional control, and subsequent runway excursion.",SOCATA TB 10 AIR,Takeoff,0204152044|0303602084|0301701084
+201851,GAA26WA007,2025-10-09 23:20:00+00:00,Rutland Plains,,Australia,,ROBINSON R22 HELI,Maneuvering,
+202188,GAA26WA054,2025-10-09 21:10:00+00:00,Rafaela,Other Foreign,Argentina,,CESSNA 185 AIR,Taxi-to runway,
+201812,WPR26LA009,2025-10-07 13:00:00+00:00,Watsonville,California,United States,"The pilot’s decision to program avionics during taxi, resulting in an inadvertent throttle input and collision with a hangar.",MOONEY M20C AIR,Taxi,0101092011|0204152044|0202154544|0106205011
+201802,WPR26FA008,2025-10-06 19:05:00+00:00,Sacramento,California,United States,,AIRBUS HELICOPTERS EC 130 T2 HELI,Initial climb,
+201799,CEN26FA010,2025-10-06 15:14:00+00:00,Parkin,Arkansas,United States,,CESSNA 210B AIR,Enroute-cruise,
+201788,CEN26LA008,2025-10-04 21:30:00+00:00,Huron,Indiana,United States,,LANCAIR 320 AIR,Enroute-cruise,
+201829,WPR26LA014,2025-10-04 12:30:00+00:00,Flanigan,Nevada,United States,"The pilot’s improper landing flare, which resulted in a hard landing.",MAYE JAMES A JUST AIRCRAFT ESCAPADE AIR,Landing,0302101787|0204151044|0106204011|0206304044|0302101791
+201820,ERA26LA009,2025-10-04 11:39:00+00:00,Smithfield,Rhode Island,United States,"Maintenance personnel’s improper rigging of the elevator trim system, which resulted in a hard landing. Contributing was the maintenance personnel and pilot’s failure to perform adequate post maintenance/preflight inspections.",CESSNA 182H AIR,Landing,0102273113|0102273115|0206151044|0206151541
+201782,GAA26WA002,2025-10-03 07:00:00+00:00,Al-Maktoum,Other Foreign,United Arab Emirates,,CIRRUS SR22 AIR,Maneuvering,
+201797,WPR26LA006,2025-10-02 10:50:00+00:00,Richland,Washington,United States,,SIAI-MARCHETTI SM 1019 AIR,Enroute,
+201767,GAA26WA001,2025-10-01 11:00:00+00:00,Durup,,Denmark,,CESSNA F172 AIR,Enroute-climb to cruise,
+201758,CEN25LA404,2025-09-30 09:03:00+00:00,Watertown,Wisconsin,United States,The flight instructor’s failure to maintain control of the airplane following the student pilot’s bounced landing. Contributing to the accident was the flight instructor’s delayed remedial action which resulted in diminished airplane performance during the go-around.,CIRRUS SR20 AIR,Landing-flare/touchdown,0106202220|0106202320|0106202420|0204102540|0206304040
+201798,WPR25LA304,2025-09-29 14:05:00+00:00,Avalon,California,United States,The pilot’s decision to land with a tailwind and a downslope to the runway.,CESSNA 182A AIR,Landing-landing roll,0206304044
+201754,CEN25LA403,2025-09-29 12:00:00+00:00,Longmont,Colorado,United States,"The pilot’s inadequate preflight fuel planning, which resulted in a total loss of engine power due to fuel exhaustion and the pilot’s improper landing flare which resulted in a hard landing.",AERONCA 11AC AIR,Prior to flight,0206103044|0107101024|0302204786|0302101586|0206301544
+201734,ERA25FA367,2025-09-27 14:18:00+00:00,Wallkill,New York,United States,,TOOP THOMAS A GLASAIR SUPER II FT AIR,Takeoff,
+201738,CEN25LA396,2025-09-27 12:30:00+00:00,Archer City,Texas,United States,The pilot’s failure to maintain clearance from power lines while herding livestock.,BELL 206 HELI,Maneuvering,0302203281|0202154544|0106201220
+201751,WPR25LA298,2025-09-27 09:50:00+00:00,Ilwaco,Washington,United States,"The pilot's inadequate preflight inspection, which resulted in a total loss of engine power due to fuel exhaustion.",CESSNA 185A AIR,Approach,0107101024|0206151044|0206103044|0204152044|0302101591
+201717,WPR25LA291,2025-09-25 06:53:00+00:00,Wittman,Arizona,United States,,PIPISTREL D O O ALPHA TRAINER AIR,Enroute-cruise,
+201709,DCA25LA339,2025-09-24 21:17:00+00:00,Roanoke,Virginia,United States,,EMBRAER EMB-145XR AIR,Landing-landing roll,
+201727,WPR25LA292,2025-09-23 14:00:00+00:00,Fallbrook,California,United States,,CESSNA 182N AIR,Approach-VFR pattern final,
+201705,ANC25LA110,2025-09-22 16:40:00+00:00,Healy,Alaska,United States,The pilot’s failure to maintain directional control during the departure roll resulting in a collision with a tractor/loader.,CESSNA 208B AIR,Takeoff,0206304044|0106202020
+201827,WPR25LA307,2025-09-22 11:57:00+00:00,Anacortes,Washington,United States,,CESSNA 172 AIR,Takeoff,
+201061,ERA25LA360,2025-09-20 19:30:00+00:00,Linden,New Jersey,United States,An in-flight collision with a bird while on approach.,PIPER PA-28-161 AIR,Landing-flare/touchdown,0302204586
+201873,ANC25LA118,2025-09-19 12:50:00+00:00,Palmer,Alaska,United States,The pilot’s failure to maintain airplane control during the go-around.,TOCI GABE C G SUPA AIR,Approach-VFR go-around,0206304044|0106201020|0106204208
+201050,WPR25FA289,2025-09-19 12:05:00+00:00,Bigfork,Montana,United States,,MURPHY SR3500 AIR,Initial climb,
+201048,ERA25LA355,2025-09-19 08:20:00+00:00,Monterey,Virginia,United States,"The pilot’s failure to attain a proper touchdown point while landing, which resulted in a runway overrun.",LAMPHERE DAVID A WITTMAN BUTTERCUP AIR,Landing-flare/touchdown,0204152044|0106204020
+201047,CEN25LA387,2025-09-18 13:15:00+00:00,Oxford,Mississippi,United States,"The pilot’s exceedance of the airplane’s critical angle of attack during the initial takeoff climb, which resulted in an aerodynamic stall and impact with terrain.",PIPER PA-32R-301 AIR,Takeoff,0106204208|0206304044
+201817,WPR25LA306,2025-09-18 12:56:00+00:00,Toledo,Washington,United States,The pilot’s failure to maintain control of the airplane during takeoff in crosswind conditions..,TEMCO GC-1B AIR,Takeoff,0303404082|0303404087|0106202320|0106202220|0206301544
+202074,GAA26WA033,2025-09-18 04:54:00+00:00,Budawang,,Australia,,CIRRUS SR20 AIR,Unknown,
+201034,ANC25LA108,2025-09-16 16:30:00+00:00,Delta Junction,Alaska,United States,"The pilot’s failure to maintain clearance from an object during takeoff, which resulted in a collision and ground loop. Contributing was the pilot’s selection of an unsuitable takeoff area.",PIPER PA-18-150 AIR,Takeoff,0302202091|0206304044|0106202020|0204152044
+201025,CEN25LA383,2025-09-16 16:28:00+00:00,Crystal Mountain,Michigan,United States,The pilot’s failure to maintain aircraft control during initial climb.,QUAD CITY CHALLENGER AIR,Takeoff,0106202020
+201017,ANC25LA107,2025-09-15 19:30:00+00:00,Tyonek,Alaska,United States,"The pilot’s failure to maintain directional control of the airplane during the landing roll, in gusting crosswind conditions.",DAVID HUNTER DANCHINI CUB AIR,Landing-landing roll,0206304044|0106202020|0303402082
+202179,GAA25WA280,2025-09-13 23:40:00+00:00,St Theresa,,Canada,,Dehavilland DHC-2 MK. 1 AIR,Approach,
+201045,ERA25LA354,2025-09-13 13:52:00+00:00,New Castle,Virginia,United States,"The pilot’s failure to properly configure the glider for landing, which resulted in an excessive descent rate during approach, and subsequent collision with trees short of the intended landing area.",JONKER SAILPLANES (PTY) LTD JS3 GLI,Approach,0204103544|0106201711
+201042,WPR25LA287,2025-09-13 10:30:00+00:00,Cave Junction,Oregon,United States,"The non-certificated pilot's improper landing flare in turbulent wind conditions, which resulted in a hard landing.",BRISENO SAMUEL KOLB FIREFLY AIR,Landing-flare/touchdown,0206304044|0106204120|0303200082|0203101044
+201001,DCA25LA323,2025-09-12 13:45:00+00:00,Port Orange,Florida,United States,"An encounter with convective turbulence during descent, which resulted in serious injuries to a flight attendant.",BOEING 737-7H4 AIR,Enroute-descent,0303202083
+201027,CEN25LA385,2025-09-12 10:30:00+00:00,Rossville,Indiana,United States,"The pilot's failure to maintain adequate airspeed while maneuvering at a low altitude, which led to the airplane exceeding its critical angle of attack and experiencing an aerodynamic stall. Contributing to the accident was the pilot's distraction.",QUICKSILVER MX II AIR,Enroute-cruise,0202151044|0106204208|0206304044|0106201020
+200996,CEN25LA375,2025-09-11 15:33:00+00:00,Forest Lake,Minnesota,United States,The pilot’s failure to maintain directional control of the airplane during a gusty crosswind landing.,Just Aircraft Highlander AIR,Landing-flare/touchdown,0106202020|0303404082|0303404582
+200979,DCA25WA321,2025-09-10 16:30:00+00:00,Belize City,,Belize,,BOEING 737-832 AIR,Approach,
+200982,ANC25LA103,2025-09-10 14:35:00+00:00,Lake Louise,Alaska,United States,"The pilot’s encounter with gusting crosswind conditions during takeoff, which resulted in a loss of control and subsequent impact with terrain.",PIPER PA-11 AIR,Takeoff,0106202020|0206304044|0303401081
+201021,DCA25WA331,2025-09-10 12:00:00+00:00,Barquisimeto,Other Foreign,Venezuela,,BOEING 737 AIR,Initial climb,
+200964,GAA25WA253,2025-09-07 16:00:00+00:00,Castellón,Other Foreign,Spain,,THRUSH S2R AIR,Landing-landing roll,
+200956,CEN25LA369,2025-09-07 10:20:00+00:00,Sturgis,Michigan,United States,The pilot’s failure to maintain control while landing.,ZODIAC CH 650B AIR,Landing-flare/touchdown,0206304044|0303404591
+200957,WPR25LA274,2025-09-06 19:25:00+00:00,Santa Teresa,New Mexico,United States,,PIPER PA-23-160 AIR,Takeoff,
+200950,GAA25WA251,2025-09-05 16:00:00+00:00,Norrtälje,Other Foreign,Sweden,,MOONEY M20J AIR,Takeoff,
+200973,ERA25LA337,2025-09-05 11:40:00+00:00,Mount Pleasant,South Carolina,United States,,LAROCCA ROCH B ERACER MK II AIR,Landing,
+201022,GAA25WA258,2025-09-05 10:35:00+00:00,Lvivuk,Other Foreign,Ukraine,,SUKHOI SU31 AIR,Enroute,
+200938,CEN25LA362,2025-09-03 10:44:00+00:00,New Braunfels,Texas,United States,A in-flight collision with a bird during the descent for landing.,CESSNA 414 AIR,Approach,0302204586|0302204581
+201038,WPR25LA285,2025-09-03 10:20:00+00:00,Reno,Nevada,United States,"The pilot's failure to maintain directional control while transitioning from the landing roll to taxi, which resulted in a ground loop.",CESSNA 180 AIR,Taxi-from runway,0106202020|0206304044
+200937,CEN25LA361,2025-09-02 13:00:00+00:00,Caro,Michigan,United States,The pilot’s failure to remove the tow bar before flight.,PIPER PA-30 AIR,Landing,0206151044|0102322015
+201762,WPR25LA300,2025-09-01 14:35:00+00:00,Firebaugh,California,United States,A loss of directional control during landing due to the partial separation of the right main landing gear oleo strut from a failed weld.,AERONCA 7AC AIR,Landing-flare/touchdown,0102321301|0106202021
+200963,ANC25LA101,2025-09-01 11:00:00+00:00,Willow,Alaska,United States,"The pilot’s decision to takeoff from an unsuitable runway due to large puddles of water, which resulted in a nose over.",CESSNA 180 AIR,Takeoff,0204152044|0302102091
+201067,GAA25WA261,2025-08-31 23:11:00+00:00,Casey,Other Foreign,Canada,,SKYSTAR KITFOX AIR,Takeoff,
+200906,WPR25FA268,2025-08-31 10:40:00+00:00,Fort Morgan,Colorado,United States,,CESSNA 172M AIR,Approach-VFR pattern final,
+200940,ERA25LA331,2025-08-30 09:03:00+00:00,Farmingdale,New York,United States,"The Cessna 150 pilot’s decision to taxi in front of an oncoming Cessna 172, which resulted in a ground collision. Contributing to the accident was the Cessna 150 pilot’s momentary distraction, which delayed his recognition of the impending collision.",CESSNA 150 AIR,Taxi-to runway,0204152044|0202154044|0204152045|0202154045
+201755,ANC25LA115,2025-08-30 07:00:00+00:00,Kanab,Utah,United States,"The pilot’s improper landing flare, which resulted in a hard landing.",CESSNA 182M AIR,Landing,0106100008|0206304044|0106204120|0204101544
+201721,GAA25WA267,2025-08-27 21:03:00+00:00,Barsaloi,,Kenya,,CESSNA 172 AIR,Unknown,
+200893,CEN25FA348,2025-08-27 20:57:00+00:00,Kearney,Nebraska,United States,,CESSNA 210D AIR,Approach-IFR final approach,
+200921,WPR25LA270,2025-08-27 14:45:00+00:00,Everett,Washington,United States,The pilot’s failure to maintain directional control during landing in crosswind conditions.,CESSNA 170A AIR,Landing-flare/touchdown,0303404082|0106203020|0206304044
+201890,CEN25LA406,2025-08-25 19:30:00+00:00,Beaman,Iowa,United States,The pilot’s failure to maintain a proper glidepath during landing which resulted in a landing short of the runway.,AYRES CORPORATION S2R-T34 AIR,Landing,0106204020|0206304044
+200865,ERA25LA317,2025-08-25 17:50:00+00:00,Knoxville,Tennessee,United States,"The pilot’s failure to maintain directional control during landing roll in a crosswind, which resulted in a runway excursion and a subsequent ground loop.",CESSNA 170B AIR,Landing-landing roll,0206304044|0106202020|0303404085
+200848,CEN25FA339,2025-08-24 19:26:00+00:00,Concordia,Kansas,United States,,RANS S-12 Airaile AIR,Maneuvering,
+200873,WPR25LA263,2025-08-23 13:45:00+00:00,Lakeview,Oregon,United States,"The pilot’s failure to maintain directional control during the landing roll, in gusting crosswind conditions.",CESSNA A185F AIR,Landing-landing roll,0106202020|0206304044|0303404082
+200930,DCA25LA312,2025-08-23 13:40:00+00:00,Miami,Florida,United States,An encounter with convective turbulence during descent that resulted in a serious injury to a flight attendant.,MCDONNELL DOUGLAS AIRCRAFT CO MD 83 AIR,Enroute-descent,0303202083
+200844,CEN25LA337,2025-08-23 11:15:00+00:00,Caseville,Michigan,United States,The front seat passenger’s inadvertent movement of the cyclic control resulting in a dynamic rollover after landing. Contributing to the accident was the pilot’s decision to leave the dual flight controls installed with a non-pilot passenger in the front seat.,BELL OH-58A HELI,Standing-engine(s) shutdown,0203201543|0204000044|0106202320|0206304044|0102270112
+200837,CEN25LA333,2025-08-22 08:44:00+00:00,Englewood,Colorado,United States,A malfunction of the tailwheel which resulted in a runway excursion and ground loop.,PARKS FOKKER D-VII REPLICA AIR,Landing-landing roll,0102322002|0106202021
+200858,CEN25LA344,2025-08-21 18:30:00+00:00,Markesan,Wisconsin,United States,The pilot’s failure to attain a proper touchdown point which resulted in a long landing and subsequent runway overrun.,CESSNA 210 AIR,Landing-landing roll,0204000044|0106103008|0204101544
+200859,ERA25LA314,2025-08-20 18:16:00+00:00,Miami,Florida,United States,"An inflight loss of hydraulic fluid from the landing gear system through a cracked fitting, which resulted in a landing gear collapse upon touchdown.",PIPER PA32R AIR,Landing,0107101524
+200819,ANC25LA087,2025-08-19 08:00:00+00:00,Homer,Alaska,United States,The failure of the left main landing gear mount due to extensive corrosion while landing in an area of rough terrain.,PIPER PA-22-160 AIR,Landing,0102321106|0302101582
+200820,ANC25LA088,2025-08-19 05:30:00+00:00,Delta Junction,Alaska,United States,"The pilot’s failure to maintain a rate of climb sufficient to clear obstacles during takeoff, resulting in a collision with tree-covered terrain.",CESSNA 180G AIR,Takeoff,0206304044|0106203520|0302202091|0302101591
+200808,CEN25FA321,2025-08-18 21:33:00+00:00,Bradley,Arkansas,United States,,LANCAIR NLA-275-FR-C AIR,Enroute-cruise,
+200866,ERA25LA318,2025-08-18 13:21:00+00:00,Portsmouth,New Hampshire,United States,The pilot’s failure to extend the airplane’s landing gear before landing.,SCODA AERONAUTICA LTDA SUPER PETREL LS AIR,Landing-flare/touchdown,0204103544|0102323010
+200832,ANC25LA090,2025-08-17 16:58:00+00:00,Willow,Alaska,United States,"The pilot’s loss of control after a rejected takeoff, which resulted in a noseover.",PIPER PA-18-150 AIR,Takeoff-rejected takeoff,0206304044|0106202020|0302101591
+200803,WPR25FA257,2025-08-17 15:12:00+00:00,Shelter Cove,California,United States,,CESSNA 140 AIR,Initial climb,
+200796,ERA25LA301,2025-08-14 17:15:00+00:00,Oakland Park,Florida,United States,,CESSNA 560XL AIR,Initial climb,
+200810,CEN25LA322,2025-08-14 17:14:00+00:00,Joliet,Illinois,United States,,PIPER PA-18-150 AIR,Maneuvering,
+200786,CEN25FA320,2025-08-14 09:34:00+00:00,Walters,Oklahoma,United States,,CESSNA 172L AIR,Enroute-descent,
+200813,CEN25LA324,2025-08-13 13:00:00+00:00,Cleburne,Texas,United States,The student pilot’s failure to maintain airplane directional control during the approach and subsequent go-around.,CIRRUS DESIGN CORP SR22 AIR,Approach-VFR go-around,0206304046|0106202020
+200959,GAA25WA252,2025-08-13 04:00:00+00:00,Perth,Other Foreign,Australia,,CESSNA 560 AIR,Approach,
+200805,DCA25WA297,2025-08-13 04:00:00+00:00,Taipei,,Taiwan,,BOEING 747-8F AIR,Landing-flare/touchdown,
+200768,ERA25LA296,2025-08-10 10:56:00+00:00,Muskeget Island,Massachusetts,United States,"The pilot’s failure to obtain a proper touchdown point while attempting to land on a very short and rough turf runway, which resulted in a runway overrun and collision with vegetation and terrain.",MAULE MX-7-180A AIR,Landing,0206304044|0106204020
+200758,WPR25LA247,2025-08-10 09:11:00+00:00,Etna,Wyoming,United States,"The pilot’s premature rotation at insufficient airspeed during takeoff to avoid an unexpected animal on the runway, which resulted in a loss of control and subsequent nose-over during the aborted takeoff. Contributing to the accident was the pilot’s excessive brake application.",AVIAT A1 AIR,Takeoff-rejected takeoff,0302204591|0206304044
+200794,DCA25WA293,2025-08-10 02:55:00+00:00,Abu Dhabi,,United Arab Emirates,,BOEING 747-47UF AIR,Approach,
+200804,ERA25LA304,2025-08-08 10:00:00+00:00,Rangeley,Maine,United States,"The pilot’s failure to maintain control of the airplane during landing, which resulted in a runway excursion and subsequent nose over.",CESSNA 140 AIR,Landing,0206304044|0106202020
+200741,WPR25LA243,2025-08-08 09:04:00+00:00,Ronan,Montana,United States,The student pilot's inadequate landing flare and recovery from a bounced landing.,CESSNA 172N AIR,Landing-flare/touchdown,0206304046|0106204120
+200750,GAA25WA235,2025-08-08 07:26:00+00:00,Norwich,Other Foreign,United Kingdom,,RAYTHEON AIRCRAFT COMPANY B36TC AIR,Landing,
+200737,CEN25LA311,2025-08-06 14:57:00+00:00,Monee,Illinois,United States,The student pilot’s failure to maintain airspeed and altitude resulting in a collision with the ground during the base to final turn.,SCHWEIZER SGS 2-33A GLI,Approach-VFR pattern base,0206304044
+200724,CEN25LA304,2025-08-06 13:00:00+00:00,Slayton,Minnesota,United States,,AYRES CORPORATION S2R-G6 AIR,Maneuvering,
+200730,GAA25WA233,2025-08-06 12:59:00+00:00,Birmingham,Other Foreign,United Kingdom,,BEECH B200 AIR,Landing,
+201015,ANC25LA106,2025-08-05 20:00:00+00:00,Delta Junction,Alaska,United States,"The pilot’s failure to maintain obstacle clearance during landing, which resulted in an impact with trees.",BRIAN TURNER NORTHERN EXPLORER AIR,Landing,0206304044|0302202082|0106202020
+200721,GAA25WA230,2025-08-05 17:20:00+00:00,Montevideo,,Uruguay,,BEECH A36 AIR,Landing,
+200694,GAA25WA224,2025-08-02 15:25:00+00:00,Guayabal-Meta,Other Foreign,Colombia,,CESSNA 188 AIR,Maneuvering-low-alt flying,
+200711,WPR25LA238,2025-08-02 11:45:00+00:00,Warren,Idaho,United States,"The pilot’s failure to adequately compensate for a wind gust during the departure roll, which resulted in a loss of directional control and a runway excursion.",CESSNA A185E AIR,Takeoff,0106202020|0303404585|0303404582
+200698,ERA25LA285,2025-08-01 17:00:00+00:00,Ellsworth,Maine,United States,"The pilot’s decision to operate the airplane with a known deficiency of the floats, which resulted in an accumulation of water in the forward compartments of the floats, a forward center of gravity, and subsequent nose over during a water landing.",CESSNA TU206 AIR,Landing-landing roll,0102324605|0204152044
+200713,GAA25WA228,2025-07-31 10:30:00+00:00,Marsh Harbor,Other Foreign,Bahamas,,PIPER PA32 AIR,Enroute,
+200688,WPR25LA234,2025-07-30 17:30:00+00:00,Cashmere,Washington,United States,"The pilot’s failure to maintain clearance from obstacles during an aborted landing, while flying in tailwind conditions. Contributing to the accident was the high density altitude weather condition.",CESSNA 182Q AIR,Landing-aborted after touchdown,0106203520|0204102544|0206304044|0303102082|0303401582
+200672,DCA25LA276,2025-07-30 17:23:00+00:00,Creston,Wyoming,United States,,AIRBUS A330 AIR,Enroute,
+200717,WPR25LA241,2025-07-28 09:30:00+00:00,Inhama,Oregon,United States,"The pilot’s failure to maintain clearance from trees while taxiing, which resulted in a wing strike.",CESSNA 182M AIR,Taxi,0106204720|0302202091|0206304044|0202154544
+200662,DCA25WA274,2025-07-27 22:00:00+00:00,Mexico City,Other Foreign,Mexico,,BOEING 737 AIR,Enroute-climb to cruise,
+200645,CEN25LA291,2025-07-27 20:01:00+00:00,Wink,Texas,United States,,MATESI EUGENE E LANCAIR 320 AIR,Enroute,
+200663,DCA25LA275,2025-07-26 14:16:00+00:00,Denver,Colorado,United States,,BOEING 737-8 AIR,Takeoff-rejected takeoff,
+200650,CEN25LA293,2025-07-26 07:45:00+00:00,Appleton,Wisconsin,United States,"The pilot’s failure to maintain control of the airplane on the ground, which resulted in a collision with a parked airplane.",PIPER PA-31T3 AIR,Taxi,0102324205|0102324215|0106202020|0206304044
+200798,DCA25WA296,2025-07-26 04:00:00+00:00,Brisbane,,Australia,,BOEING 737 AIR,Standing,
+200626,CEN25LA286,2025-07-23 16:55:00+00:00,Rushmore,Minnesota,United States,The pilot’s failure to maintain clearance from a tree during low-level maneuvering.,WEATHERLY AVIATION CO INC 620B AIR,Maneuvering-low-alt flying,0202154544|0106201220|0302202085
+200624,CEN25LA285,2025-07-23 16:00:00+00:00,Walcott,Iowa,United States,The pilot’s failure to maintain clearance from the crops during an aerial application flight.,AIR TRACTOR INC AT-802A AIR,Maneuvering-low-alt flying,0106201220|0202154544
+200617,CEN25LA284,2025-07-23 10:45:00+00:00,New Hudson,Michigan,United States,The student pilot’s improper landing flare and the flight instructor’s delayed remedial action during landing that resulted in a loss of control and impact with terrain.,PIPER PA-28-140 AIR,Landing-aborted after touchdown,0204102540|0106204120|0206304040
+200648,WPR25LA227,2025-07-22 16:40:00+00:00,Logan,Utah,United States,The pilot’s failure to maintain airplane control during takeoff in variable wind and high density altitude conditions.,HARTLINE J BON HARTLINE KITFOX III AIR,Takeoff,0303404082|0206301544|0303102082|0206102044|0106202320
+200605,CEN25LA274,2025-07-22 10:30:00+00:00,Hastings,Nebraska,United States,The pilot’s failure to maintain clearance from powerlines while maneuvering at low altitude.,AIR TRACTOR AT502 AIR,Maneuvering-low-alt flying,0202154544|0302203287|0106201220|0206304044
+200611,CEN25LA278,2025-07-21 18:56:00+00:00,Oshkosh,Wisconsin,United States,,RAVIN 500 AIR,Landing-landing roll,
+202317,GAA25WA282,2025-07-20 14:00:00+00:00,Kelvinhaugh,,Australia,,Riems Aviaition S.A. F406 AIR,Unknown,
+200759,CEN25LA315,2025-07-20 12:50:00+00:00,Faith,South Dakota,United States,The pilot's failure to maintain directional control during the landing roll with crosswind.,CESSNA 170B AIR,Landing-landing roll,0106202020|0206304044|0303404082
+201991,ENG25WA056,2025-07-20 12:30:00+00:00,"Britânia, state of Goiás",Other Foreign,Brazil,,AgustaWestlands AW119 MKII HELI,Maneuvering-low-alt flying,
+200604,GAA25WA214,2025-07-19 04:00:00+00:00,Miranda,Other Foreign,Venezuela,,CESSNA 152 AIR,Approach-VFR pattern downwind,
+200588,WPR25LA218,2025-07-17 16:00:00+00:00,Round Rock,Arizona,United States,,CESSNA 425 AIR,Enroute,
+200587,WPR25LA217,2025-07-17 14:47:00+00:00,Tuba City,Arizona,United States,,CESSNA TR182 AIR,Enroute,
+200629,OPS25LA054,2025-07-16 15:42:00+00:00,Freeland,Michigan,United States,,BOMBARDIER INC CL-600-2D24 AIR,Takeoff,
+200556,ERA25LA269,2025-07-16 14:02:00+00:00,Sylacauga,Alabama,United States,,BEECH K35 AIR,Enroute,
+200553,WPR25FA213,2025-07-15 14:40:00+00:00,Quinault,Washington,United States,,SCOTT MACWILLIAM SR3500 MOOSE AIR,Enroute,
+200631,WPR25LA222,2025-07-14 10:15:00+00:00,Hurricane,Utah,United States,"The pilot’s failure to maintain pitch control during takeoff, which resulted in an unintended liftoff from the runway and a subsequent loss of control.",ROTORSPORT UK LTD ROTORSPORT UK CAVALON GYRO,Takeoff,0106202220|0206304044
+200521,WPR25FA208,2025-07-13 21:28:00+00:00,Needles,California,United States,,PIPER PA-28-180 AIR,Unknown,
+200546,WPR25LA211,2025-07-13 11:06:00+00:00,Sisters,Oregon,United States,,CESSNA 172S AIR,Initial climb,
+200433,DCA25WA245,2025-07-12 04:00:00+00:00,Mascot,,Austria,,BOEING 737,Approach,
+200523,ERA25LA264,2025-07-11 19:45:00+00:00,St. Augustine,Florida,United States,"The pilot’s inadequate fuel planning, which resulted in a total loss of engine power due to fuel exhaustion.",CESSNA 150 AIR,Approach,0206103044|0107101025
+200555,ERA25LA268,2025-07-11 16:30:00+00:00,Elysburg,Pennsylvania,United States,Failure of the engine mount which resulted in a collapse of the nose landing gear.,PIPER PA46 AIR,Landing,0102322101
+200520,ANC25LA073,2025-07-10 16:00:00+00:00,Palmer,Alaska,United States,"The pilot’s excessive braking during the landing roll, resulting in a nose over. Contributing to the accident was the pilot’s decision to continue the landing after determining the landing area was unsuitable.",PIPER PA-18-135 AIR,Landing-landing roll,0204152044|0206304044|0106204511|0302101591
+200503,ERA25LA261,2025-07-09 18:20:00+00:00,Century,Florida,United States,,CESSNA 172H AIR,Emergency descent,
+200502,ANC25LA070,2025-07-09 13:07:00+00:00,Homer,Alaska,United States,"The pilot’s failure to maintain directional control during landing, which resulted in a ground loop.",CESSNA 170B AIR,Landing-landing roll,0106202020|0206304044
+200479,CEN25LA240,2025-07-07 09:30:00+00:00,La Garita,Colorado,United States,The pilot’s failure to maintain clearance from terrain while maneuvering at low altitude in mountainous terrain. Contributing was the pilot’s inadequate preflight planning and aeronautical decision making.,CUB CRAFTERS CCK-1865 AIR,Maneuvering-low-alt flying,0106203520|0204152044|0303102082|0302101082
+202983,GAA25WA285,2025-07-07 04:00:00+00:00,Kurihara City,Other Foreign,Japan,,CESSNA 172,Unknown,
+200607,GAA25WA215,2025-07-06 17:50:00+00:00,Mallorca,,Spain,,CESSNA 650 AIR,Takeoff,
+200477,CEN25LA239,2025-07-05 09:31:00+00:00,Newaygo,Michigan,United States,The pilot’s inadequate fuel planning and his failure to adequately monitor the fuel level during the flight which resulted in a total loss of engine power due to fuel exhaustion.,LUSCOMBE 8A AIR,Enroute,0107101024|0206103044|0204151044|0202152544
+200545,GAA25WA210,2025-07-05 07:30:00+00:00,Châteauroux-Villers,,France,,JODEL DR1050 AIR,Initial climb,
+200514,WPR25LA207,2025-07-04 09:00:00+00:00,Belen,New Mexico,United States,,CESSNA 182B AIR,Landing,
+200453,ERA25LA254,2025-07-02 17:29:00+00:00,Monroe,New Jersey,United States,,CESSNA 208 AIR,Enroute-climb to cruise,
+200452,WPR25FA197,2025-07-02 13:13:00+00:00,Mount Vernon,Washington,United States,,EVOLUTION AIRCRAFT INC REVOLT WSFT,Takeoff,
+200472,CEN25LA235,2025-07-02 11:45:00+00:00,Brush,Colorado,United States,The pilot’s failure to maintain directional control while performing a touch and go landing.,PIPER PA12 AIR,Landing-flare/touchdown,0303401082|0106202020|0206304044
+200436,CEN25LA229,2025-06-30 20:54:00+00:00,Guthrie,Oklahoma,United States,,RANS S-14 AIR,Takeoff,
+200474,WPR25LA201,2025-06-30 11:11:00+00:00,Alpine,Wyoming,United States,The pilot’s loss of visual reference during the landing approach which resulted in a collision with water.,LANCAIR IV AIR,Approach,0202201544|0202154544|0106201220|0302300085
+200432,CEN25LA228,2025-06-30 10:00:00+00:00,Ben Bolt,Texas,United States,The pilot’s failure to maintain directional control while landing with a crosswind.,MOONEY M20M AIR,Landing-flare/touchdown,0106202020|0206304044|0303404082
+200409,ERA25FA248,2025-06-29 10:49:00+00:00,Zeeland,Michigan,United States,,ROBERT FIDLER LANCAIR 320/360 AIR,Takeoff,
+200445,ERA25LA252,2025-06-29 09:15:00+00:00,Pelzer,South Carolina,United States,"The pilot’s failure to maintain proper airspeed while landing on a short, down-sloping turf runway, which resulted in a noseover.",CESSNA 150 AIR,Landing,0206304044|0106201020
+200468,WPR25LA198,2025-06-28 13:30:00+00:00,Coolin,Idaho,United States,The pilot’s failure to maintain control of the airplane and exceedance of the critical angle of attack during takeoff in windy conditions which resulted in a subsequent hard landing.,REPUBLIC RC-3 AIR,Takeoff,0303402082|0106202321|0206301544|0106204220
+202623,DCA25WA351,2025-06-28 04:00:00+00:00,Stansted,,Gabon,,BOEING 737 AIR,Enroute,
+200405,ERA25LA245,2025-06-27 11:30:00+00:00,Kelleys Island,Ohio,United States,The pilot’s failure to maintain control of the airplane while taking off in gusting crosswind conditions.,CESSNA 177 AIR,Takeoff,0206304044|0303404085
+200402,ENG25WA040,2025-06-27 04:45:00+00:00,Karachi,Other Foreign,Pakistan,,BOEING 777 AIR,Initial climb,
+200390,ERA25LA240,2025-06-25 10:41:00+00:00,Hawesville,Kentucky,United States,The pilot’s failure to maintain clearance from power lines during low-level agricultural spray operations.,ROBINSON HELICOPTER COMPANY R44 II HELI,Maneuvering-low-alt flying,0202154544|0302203285
+200439,WPR25LA196,2025-06-24 13:40:00+00:00,Pendleton,Oregon,United States,"The pilot’s failure to maintain directional control during landing, in gusting crosswind conditions.",MAULE M-4-220C AIR,Landing-landing roll,0106202020|0206304044|0303404082
+200385,ERA25LA238,2025-06-24 12:30:00+00:00,Fayetteville,Tennessee,United States,,CESSNA 310 AIR,Takeoff-rejected takeoff,
+200505,ERA25LA262,2025-06-23 22:00:00+00:00,East Hampton,New York,United States,The pilot’s failure to extend the landing gear before landing due to his distraction.,RAYTHEON AIRCRAFT COMPANY G58 AIR,Landing-flare/touchdown,0204103544|0206301544|0102323010|0202151044
+200501,ANC25LA069,2025-06-23 15:30:00+00:00,Port Graham,Alaska,United States,"The pilot's improper landing flare and failure to maintain pitch control, which resulted in a tail strike. Contributing to the accident was the pilot’s failure to initiate a go around after the abnormal runway contact.",CESSNA P206C AIR,Landing,0106204120|0106202220|0206304044|0204101044|0204152044
+200380,ERA25LA235,2025-06-23 09:35:00+00:00,Pace,Florida,United States,,CESSNA R182 AIR,Initial climb,
+200372,WPR25LA185,2025-06-20 11:55:00+00:00,San Andreas,California,United States,The pilot’s loss of directional control during landing roll following an encounter with a dust devil.,SILVAIRE LUSCOMBE 8A AIR,Landing-landing roll,0106202021|0303406082
+200371,WPR25LA184,2025-06-20 09:10:00+00:00,Rockford,Washington,United States,"The pilot's inadequate preflight inspection, which resulted in a total loss of engine power due to fuel exhaustion and a subsequent landing on rough terrain.",CESSNA 180E AIR,Enroute,0206151044|0206103044|0107101024|0302101591
+200356,ERA25FA231,2025-06-20 09:00:00+00:00,Broadway,North Carolina,United States,,PITTS S2 AIR,Enroute,
+200723,GAA25WA231,2025-06-18 12:56:00+00:00,Gloucestershire,Other Foreign,United Kingdom,,PIPER PA-28-181 AIR,Taxi,
+200354,CEN25FA212,2025-06-18 09:22:00+00:00,Three Points,Arizona,United States,,CESSNA A150L AIR,Enroute,
+200435,DCA25WA247,2025-06-18 04:00:00+00:00,Brisbane,,Australia,,BOEING 737,Standing-engine(s) shutdown,
+200343,GAA25WA185,2025-06-15 00:13:00+00:00,Guptkashi,,India,,BELL 407 HELI,Unknown,
+200331,ANC25LA054,2025-06-14 12:30:00+00:00,Modesto,California,United States,The pilot’s failure to properly configure the airplane for landing.,CESSNA TR182 AIR,Landing,0204103044|0206303044|0204152044|0204151044
+200337,DCA25LA234,2025-06-14 12:15:00+00:00,Ebro,Florida,United States,"The airplane’s encounter with convective turbulence during climb while diverting to an alternate airport, resulting in a serious injury to a passenger who disregarded the flight crew’s illuminated seat belt sign and the cabin crew’s instruction to remain seated.",BOEING 737-7H4 AIR,Initial climb,0303202083
+200326,DCA25LA233,2025-06-12 22:08:00+00:00,Guayaquil,,Ecuador,,BOEING 747-47UF AIR,Initial climb,
+200315,DCA25WA232,2025-06-12 04:00:00+00:00,Ahmedabad,,India,,BOEING 787 AIR,Initial climb,
+200333,WPR25LA177,2025-06-11 16:30:00+00:00,Tonasket,Washington,United States,The glider’s encounter with atmospheric conditions where the lift was not sufficient to maintain flight.,ROLLADEN SCHNEIDER LS-7WL GLI,Landing,0303104082|0106201221
+200450,ENG25WA041,2025-06-09 17:34:00+00:00,Pudahuel,Other Foreign,Chile,,AIRBUS A320 AIR,Taxi-into takeoff position,
+200345,GAA25WA187,2025-06-08 15:00:00+00:00,Ladysmith,,South Africa,,PIPER PA28 AIR,Enroute,
+200312,ANC25LA049,2025-06-08 14:00:00+00:00,Flagstaff,Arizona,United States,"The pilot’s failure to maintain directional control during takeoff in variable and gusty wind, which resulted in a ground loop.",CESSNA 180J AIR,Landing-landing roll,0106202021|0206304044|0303404591|0303402582
+200281,CEN25FA198,2025-06-07 14:59:00+00:00,Waterman,Illinois,United States,,AERONCA 7AC AIR,Maneuvering,
+201770,ERA25LA374,2025-06-07 14:30:00+00:00,Ridgeland,South Carolina,United States,The pilot’s failure to maintain directional control of the airplane during landing.,FLYING CLOUD AVIATION LLC AL18 AIR,Landing-landing roll,0206304044|0106202020
+200310,CEN25LA204,2025-06-06 12:20:00+00:00,Pembine,Wisconsin,United States,The pilot’s improper flare during landing which resulted in a bounced landing.,FLIGHT DESIGN GMBH CTSW AIR,Landing-flare/touchdown,0106204120|0204101544|0206304044
+200260,GAA25WA177,2025-06-03 12:00:00+00:00,Santa Elena de Uairén,Other Foreign,Venezuela,,CESSNA U206 AIR,Enroute-cruise,
+200255,CEN25FA194,2025-06-03 11:45:00+00:00,Farmington,North Carolina,United States,,UNIVERSAL STINSON 108 AIR,Unknown,
+200270,CEN25LA195,2025-06-02 11:30:00+00:00,Charlevoix,Michigan,United States,The pilot’s failure to maintain pitch control during the takeoff that resulted in multiple bounces and substantial damage to the fuselage.,CESSNA 182 AIR,Takeoff,0106202220|0206304044|0204101544|0202152044
+200254,WPR25LA167,2025-05-31 09:30:00+00:00,Kooskia,Idaho,United States,,CESSNA 182J AIR,Enroute-cruise,
+200242,DCA25WA223,2025-05-31 05:22:00+00:00,Muscat,,Oman,,BOEING 737-8 Max,Enroute-climb to cruise,
+200283,ENG25WA037,2025-05-31 04:00:00+00:00,Muscat,,Oman,,BOEING 737 AIR,Initial climb,
+200224,WPR25LA162,2025-05-26 16:15:00+00:00,Monroe,Washington,United States,"The student pilot’s failure to maintain airplane control during landing, and the flight instructor’s delayed remedial action, which resulted in impact with a ditch.",CESSNA 172N AIR,Landing-landing roll,0302101782|0106202020|0206304046|0206304040|0204102540
+200228,CEN25LA188,2025-05-26 15:40:00+00:00,Vega,Texas,United States,"The airplane’s inadvertent encounter with a localized low boundary layer, which caused a wind shift, and a gusting tailwind during final approach, that resulted in the pilot deciding to impact a wind cone and a subsequent impact with terrain. Contributing was the low-level convective turbulence.",PIPER PA-18 AIR,Approach-VFR pattern final,0204152044|0203202044|0303000086|0303000091|0303000087|0303000081|0206304044
+200253,GAA25WA175,2025-05-26 15:31:00+00:00,Robertsfield,Other Foreign,Liberia,,GULFSTREAM AEROSPACE G-IV AIR,Landing-flare/touchdown,
+200225,ANC25LA040,2025-05-23 09:12:00+00:00,San Luis Obispo,California,United States,The pilot's failure to maintain directional control during takeoff.,CIRRUS DESIGN CORP SR22T AIR,Takeoff,0206304044|0106202020
+200194,CEN25FA183,2025-05-23 07:18:00+00:00,Miami,Texas,United States,,ROBINSON HELICOPTER COMPANY R44 II HELI,Enroute,
+200217,GAA25WA165,2025-05-23 04:00:00+00:00,Norfolk,Other Foreign,United Kingdom,,PIPER PA-22-108 AIR,Takeoff,
+200227,GAA25WA170,2025-05-18 17:50:00+00:00,Kilkeel,,United Kingdom,,PIPER PA 46-350P AIR,Takeoff,
+200173,CEN25LA180,2025-05-18 14:20:00+00:00,MOUNTAIN VIEW AIRPORT,Missouri,United States,An in-flight collision with a bird while enroute.,EXCALIBUR EXCALIBUR AIR,Enroute,0302204582|0302204586
+200181,ANC25LA039,2025-05-18 14:12:00+00:00,Willow,Alaska,United States,"The pilot's inadvertent application of brakes during landing, which resulted in a nose over.",TAYLORCRAFT BC12-D1 AIR,Landing-landing roll,0206304044|0106204511|0302302091|0102324212|0204151044
+200166,CEN25FA178,2025-05-17 10:03:00+00:00,Broomfield,Colorado,United States,,BEECH 95-B55 (T42A) AIR,Takeoff,
+200176,CEN25LA182,2025-05-16 14:59:00+00:00,Houston,Texas,United States,,BEECH F33A AIR,Initial climb,
+200171,CEN25LA179,2025-05-15 20:20:00+00:00,Wahoo,Nebraska,United States,The pilot’s failure to maintain clearance from an obstacle during taxi operations.,CESSNA 177RG AIR,Taxi,0106200020|0206301544
+200140,ERA25FA201,2025-05-10 09:35:00+00:00,Yulee,Florida,United States,"The pilot’s exceedance of the airplane’s critical angle of attack during takeoff, which resulted in a stall/spin at an altitude too low for recovery. Contributing to the accident was the opening of the nose baggage door and subsequent distraction of the pilot during a critical phase of flight, as well as the external pressure of the approaching thunderstorms, which likely resulted in the pilot rushing to depart.",PIPER PA32RT AIR,Takeoff,0106204208|0202154544|0202151044|0204152044|0206304044|0303301091|0103523012
+200138,WPR25FA153,2025-05-09 09:00:00+00:00,Big Creek,Idaho,United States,,AMERICAN CHAMPION AIRCRAFT 7GCBC AIR,Takeoff,
+200132,ERA25LA199,2025-05-07 21:16:00+00:00,Ocala,Florida,United States,"The pilot’s decision to depart on the flight with known electrical issues and his subsequent loss of situational awareness (geographic position), which resulted in his eventual decision to perform an off-airport landing.",CESSNA 182A AIR,Landing,0202203044|0203203044|0202203544|0204152044
+200163,DCA25WA207,2025-05-04 21:00:00+00:00,Mumbai,,India,,BOEING 777 AIR,Enroute-cruise,
+200130,ERA25LA197,2025-05-04 14:20:00+00:00,Crestview,Florida,United States,The pilot’s decision to take off despite having problems controlling the airplane due to his physical stature.,ARLIE L RABER III CHALLENGER 1 AIR,Landing,0201101044|0204152044|0106202421
+200099,CEN25FA166,2025-05-04 13:25:00+00:00,Wilson,Kansas,United States,,PIPER J3C-65 AIR,Enroute,
+200222,GAA25WA168,2025-05-02 20:30:00+00:00,Toronto,Other Foreign,Canada,,CIRRUS SR22 AIR,Enroute-climb to cruise,
+200213,GAA25WA163,2025-05-02 09:43:00+00:00,Shelford,,Australia,,ROBINSON R44 HELI,Enroute,
+200095,OPS25LA034,2025-05-01 14:33:00+00:00,Washington,District of Columbia,United States,,EMBRAER ERJ 170-100 LR AIR,Approach-IFR final approach,
+200088,CEN25LA164,2025-04-29 08:40:00+00:00,Atlantic Ocean,,Canada,The airplane’s impact with the ocean for undetermined reasons based on the available evidence.,AIR TRACTOR AT802 AIR,Enroute-cruise,0500000000
+200136,GAA25WA155,2025-04-28 09:45:00+00:00,Allen,Other Foreign,Argentina,,CESSNA 182 AIR,Maneuvering-low-alt flying,
+200078,WPR25LA144,2025-04-26 12:15:00+00:00,Ontario,Oregon,United States,"The pilot's exceedance of the airplane's critical angle of attack during the final approach to land, which resulted in an aerodynamic stall and impact with terrain.",SCHWEIZER SGS 1-26B GLI,Landing,0106204220|0106204020|0206304044
+200058,ERA25LA184,2025-04-23 10:00:00+00:00,Zolfo Springs,Florida,United States,The pilot’s failure to maintain control of the airplane during the takeoff. Contributing was the flight instructor’s lack of remedial action.,GRUMMAN AMERICAN AVN. CORP. AA-5B AIR,Takeoff,0206304044|0204103040|0106202220|0106202020
+200060,GAA25WA144,2025-04-23 08:30:00+00:00,Sangkiang Village,,Papua New Guinea,,CESSNA 188 AIR,Maneuvering-low-alt flying,
+200064,DCA25WA192,2025-04-22 13:53:00+00:00,Ras Al Khaimah,,United Arab Emirates,,BOEING 737 AIR,Landing-flare/touchdown,

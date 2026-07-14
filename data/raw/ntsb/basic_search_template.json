@@ -1,0 +1,191 @@
+{
+    "QueryGroups":  [
+                        {
+                            "QueryRules":  [
+                                               {
+                                                   "FieldName":  "NTSBNumber",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Event.NTSBNumber"
+                                                               ],
+                                                   "Operator":  "search engine"
+                                               },
+                                               {
+                                                   "FieldName":  "Mode",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Event.Mode"
+                                                               ],
+                                                   "Operator":  "contains"
+                                               },
+                                               {
+                                                   "FieldName":  "EventDate",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Event.EventDate"
+                                                               ],
+                                                   "Operator":  "is"
+                                               },
+                                               {
+                                                   "FieldName":  "City",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Event.City"
+                                                               ],
+                                                   "Operator":  "search engine"
+                                               },
+                                               {
+                                                   "FieldName":  "State",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Event.State"
+                                                               ],
+                                                   "Operator":  "is"
+                                               },
+                                               {
+                                                   "FieldName":  "Country",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Event.Country"
+                                                               ],
+                                                   "Operator":  "is"
+                                               },
+                                               {
+                                                   "FieldName":  "HighestInjury",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Event.HighestInjury"
+                                                               ],
+                                                   "Operator":  "is"
+                                               },
+                                               {
+                                                   "FieldName":  "OriginalPublishedDate",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Event.OriginalPublishedDate"
+                                                               ],
+                                                   "Operator":  "is"
+                                               },
+                                               {
+                                                   "FieldName":  "AircraftCategory",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Aircraft.AircraftCategory"
+                                                               ],
+                                                   "Operator":  "is"
+                                               },
+                                               {
+                                                   "FieldName":  "EngineType",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Aircraft.EngineType"
+                                                               ],
+                                                   "Operator":  "is"
+                                               },
+                                               {
+                                                   "FieldName":  "RegistrationNumber",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Aircraft.RegistrationNumber"
+                                                               ],
+                                                   "Operator":  "search engine"
+                                               },
+                                               {
+                                                   "FieldName":  "RegulationFlightConductedUnder",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "AviationOperation.RegulationFlightConductedUnder"
+                                                               ],
+                                                   "Operator":  "is"
+                                               },
+                                               {
+                                                   "FieldName":  "OperatorScope",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "AviationOperation.OperatorScope"
+                                                               ],
+                                                   "Operator":  "is"
+                                               },
+                                               {
+                                                   "FieldName":  "RecNum",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Recs.Srid",
+                                                                   "Recs.SridCleaned"
+                                                               ],
+                                                   "Operator":  "search engine"
+                                               },
+                                               {
+                                                   "FieldName":  "RecsSubject",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Recs.Subject"
+                                                               ],
+                                                   "Operator":  "search engine"
+                                               },
+                                               {
+                                                   "FieldName":  "AddresseeName",
+                                                   "RuleType":  0,
+                                                   "Values":  [
+
+                                                              ],
+                                                   "Columns":  [
+                                                                   "Recs.AddresseeName"
+                                                               ],
+                                                   "Operator":  "search engine"
+                                               }
+                                           ],
+                            "AndOr":  "And"
+                        }
+                    ],
+    "TargetCollection":  "cases",
+    "AndOr":  "And",
+    "SortColumn":  null,
+    "SortDescending":  false,
+    "SessionId":  null
+}
