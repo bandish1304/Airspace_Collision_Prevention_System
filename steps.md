@@ -78,7 +78,7 @@ You are turning raw aircraft positions into meaningful ML features. You are also
 
 6. Generate all pairs of aircraft within a 50 nautical mile radius of each other. For every pair, compute all five features above: haversine distance, closing speed, bearing difference, vertical separation, and time-to-CPA.
 
-7. Label each aircraft pair. A pair is labeled as collision risk (positive class, label = 1) if any of the following are true: horizontal separation is below 5 nautical miles AND vertical separation is below 1000 feet, OR time-to-CPA is below 5 minutes AND projected CPA distance is below 3 nautical miles. All other pairs are labeled safe (negative class, label = 0).
+7. Label each aircraft pair. A pair is labeled as collision risk (positive class, label = 1) if any of the following are true: horizontal separation is below 3 nautical miles AND vertical separation is below 1000 feet, OR time-to-CPA is below 5 minutes AND projected CPA distance is below 3 nautical miles. All other pairs are labeled safe (negative class, label = 0).
 
 8. Analyze your class distribution. Count how many positive examples (collision risk) versus negative examples (safe) you have. In real ADS-B data, collision risk pairs are typically less than 1% of all pairs. Print and log this ratio to MLflow. This imbalance is the core data challenge of this project.
 
