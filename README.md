@@ -2,7 +2,6 @@
 
 A real-time machine learning system that monitors live aircraft telemetry from the OpenSky Network, predicts collision risk between aircraft pairs using an XGBoost and LSTM ensemble, and displays risk scores on a live TypeScript dashboard — all backed by production-grade reliability engineering.
 
-![CI](https://github.com/yourusername/airspace-collision-prevention/actions/workflows/ci.yml/badge.svg)
 ![Coverage](https://img.shields.io/badge/coverage-75%25-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
